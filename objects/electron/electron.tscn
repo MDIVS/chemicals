@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://nthetvkh7dyc"]
+
+[ext_resource type="Texture2D" uid="uid://byomnm17hj1ue" path="res://objects/electron/icon.png" id="1_731ep"]
+[ext_resource type="Script" path="res://objects/electron/electron.gd" id="1_nkh3b"]
+
+[node name="Electron" type="Sprite2D"]
+texture = ExtResource("1_731ep")
+script = ExtResource("1_nkh3b")
