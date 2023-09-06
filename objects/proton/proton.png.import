@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://byomnm17hj1ue"
-path="res://.godot/imported/icon.png-de4357b427ac14445a9f88d7cdad4101.ctex"
+uid="uid://b64updaklqvqo"
+path="res://.godot/imported/proton.png-3013608c73fab01947a130408b29b97e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://objects/electron/icon.png"
-dest_files=["res://.godot/imported/icon.png-de4357b427ac14445a9f88d7cdad4101.ctex"]
+source_file="res://objects/proton/proton.png"
+dest_files=["res://.godot/imported/proton.png-3013608c73fab01947a130408b29b97e.ctex"]
 
 [params]
 

@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://2i17emsbdjmj"]
+
+[ext_resource type="Texture2D" uid="uid://b64updaklqvqo" path="res://objects/proton/proton.png" id="1_re0v5"]
+[ext_resource type="Script" path="res://objects/proton/proton.gd" id="2_sb8ks"]
+
+[node name="Proton" type="Sprite2D"]
+texture = ExtResource("1_re0v5")
+script = ExtResource("2_sb8ks")
